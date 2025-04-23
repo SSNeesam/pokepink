@@ -175,7 +175,6 @@ ELSE
 	and A_BUTTON | START
 ENDC
 	jr nz, .go_to_main_menu
-	call DoTitleScreenFunction
 	jr .titleScreenLoop
 
 .go_to_main_menu

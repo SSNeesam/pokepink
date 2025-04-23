@@ -32,3 +32,6 @@
 *.sn*
 *.sa*
 *.sg1
+
+# rgbds
+rgbds-0.6.1/

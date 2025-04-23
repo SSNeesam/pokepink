@@ -110,14 +110,14 @@ GFX_e7863::
 INCBIN "gfx/pikachu/unknown_e7863.2bpp"
 GFX_e79f3::
 INCBIN "gfx/pikachu/unknown_e79f3.2bpp"
-GFX_e7b83::
-INCBIN "gfx/pikachu/unknown_e7b83.2bpp"
-GFX_e7d13::
-INCBIN "gfx/pikachu/unknown_e7d13.2bpp"
 
 
 SECTION "Pikachu Graphics 2", ROMX
 
+GFX_e7b83::
+INCBIN "gfx/pikachu/unknown_e7b83.2bpp"
+GFX_e7d13::
+INCBIN "gfx/pikachu/unknown_e7d13.2bpp"
 Pic_f0abf::
 INCBIN "gfx/pikachu/unknown_f0abf.pic"
 GFX_f0b64::

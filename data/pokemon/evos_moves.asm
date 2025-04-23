@@ -1273,11 +1273,13 @@ EeveeEvosMoves:
 	db 0
 ; Learnset
 	db 8, SAND_ATTACK
-	db 16, GROWL
+	db 15, GROWL
+	db 17, SWIFT
 	db 23, QUICK_ATTACK
-	db 30, BITE
+	db 29, BITE
 	db 36, FOCUS_ENERGY
 	db 42, TAKE_DOWN
+	db 50, DOUBLE_EDGE
 	db 0
 
 FlareonEvosMoves:

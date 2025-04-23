@@ -24,8 +24,8 @@ MonPartyData:
 	nybble ICON_BIRD      ; Fearow
 	nybble ICON_SNAKE     ; Ekans
 	nybble ICON_SNAKE     ; Arbok
-	nybble ICON_PIKACHU   ; Pikachu
-	nybble ICON_PIKACHU   ; Raichu
+	nybble ICON_MON       ; Pikachu
+	nybble ICON_MON       ; Raichu
 	nybble ICON_MON       ; Sandshrew
 	nybble ICON_MON       ; Sandslash
 	nybble ICON_MON       ; NidoranF
@@ -132,10 +132,10 @@ MonPartyData:
 	nybble ICON_SNAKE     ; Gyarados
 	nybble ICON_WATER     ; Lapras
 	nybble ICON_MON       ; Ditto
-	nybble ICON_QUADRUPED ; Eevee
-	nybble ICON_QUADRUPED ; Vaporeon
-	nybble ICON_QUADRUPED ; Jolteon
-	nybble ICON_QUADRUPED ; Flareon
+	nybble ICON_PIKACHU   ; Eevee
+	nybble ICON_PIKACHU   ; Vaporeon
+	nybble ICON_PIKACHU   ; Jolteon
+	nybble ICON_PIKACHU   ; Flareon
 	nybble ICON_MON       ; Porygon
 	nybble ICON_HELIX     ; Omanyte
 	nybble ICON_HELIX     ; Omastar
